@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(126, 126, 204);
+}
+
+.profile_pic{
+    display: flex;
+    
+    
+    flex-direction: column;
+    
+   
+    
+}
